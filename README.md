@@ -1,7 +1,7 @@
 # DD-project Ping-Pong
 Designing a 2-Dimensional ping-pong game using verilog-HDL language under guidance of professor Nitin Bhatia.
 
-#Overview
+# Overview
 Game consist of two players, a ball and a paddle with up and down control. Aim of the game is return the ball without missing , which ever player misses will lost the game. Game have two speed mode fast and slow.
 
 
